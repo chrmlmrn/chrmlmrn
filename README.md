@@ -1,7 +1,7 @@
 <!-- Simple Bio -->
 # 👋 Hello, I'm Charimel!
 
-🙋🏻 Computer Science Graduating Student Specializing in Data Science<br/>
+🙋🏻 Aspiring Data Analyst and Mobile Developer<br/>
 📚 Studying Computer Science at the Technological Institute of the Philippines - Quezon City, Philippines<br/>
 🌱 Currently learning about data analytics and data science<br/>
 
