@@ -1,5 +1,5 @@
 <!-- Simple Bio -->
-### Hello, I'm Charimel!
+## Hello, I'm Charimel!
 
 🙋🏻 Computer Science Graduating Student<br/>
 📚 Studying Computer Science at the Technological Institute of the Philippines - Quezon City, Philippines<br/>
